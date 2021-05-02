@@ -37,8 +37,6 @@ $ php artisan serve
 
 ## Postman Screenshot
 ![list](https://user-images.githubusercontent.com/73910136/116829590-6c96c480-ab9c-11eb-8938-222c87569884.png)
-![add](https://user-images.githubusercontent.com/73910136/116829594-71f40f00-ab9c-11eb-8203-68c8cc9b2e2f.png)
-![update](https://user-images.githubusercontent.com/73910136/116829597-76b8c300-ab9c-11eb-8e6a-8a737315b816.png)
 
 
 
