@@ -1,0 +1,26 @@
+
+GET http://127.0.0.1:8000/api/records/
+
+###
+
+POST http://127.0.0.1:8000/api/records/
+Content-Type: application/json
+
+{
+    "title": "My record new title",
+    "content": "My record new content"
+}
+
+###
+
+PUT http://127.0.0.1:8000/api/records/12
+Content-Type: application/json
+
+{
+    "title": "My record new title (updated)",
+    "content": "My record new content (updated)"
+}
+
+###
+
+DELETE http://127.0.0.1:8000/api/records/13
