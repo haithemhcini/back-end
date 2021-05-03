@@ -26,8 +26,8 @@ $ php artisan serve
 | ---------- | ------ | --------:|
 | GET | /api/records|List all records|
 | POST | /api/records| Add new record|
-| PUT | /api/records/:id |  Update a record |
-| DELETE | /api/records/:id | Delete a record|
+| PUT | /api/records/id |  Update a record |
+| DELETE | /api/records/id | Delete a record|
 
 **You can test the API using REST-Client or Postman**
 
