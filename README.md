@@ -1,4 +1,4 @@
-# Vehicles-APIRESTful
+# RecordsApi
 RESTful API in Laravel 8 that contains all methods (GET,POST,PUT,DELETE)
 
 ## Project Setup
