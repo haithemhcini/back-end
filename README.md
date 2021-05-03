@@ -46,7 +46,7 @@ Postman Screenshot
 ## I add three interfaces (Show,Add,Edit)
 
 ![list](https://user-images.githubusercontent.com/73910136/116829590-6c96c480-ab9c-11eb-8938-222c87569884.png)
-![image](https://user-images.githubusercontent.com/73910136/116834307-5b0de680-abb5-11eb-85fd-73e19c8a151d.png)
+![image](https://user-images.githubusercontent.com/73910136/116834576-a5dc2e00-abb6-11eb-99e5-475839bc5dc4.png)
 ![image](https://user-images.githubusercontent.com/73910136/116834318-6b25c600-abb5-11eb-8e18-db742c334549.png)
 
 
